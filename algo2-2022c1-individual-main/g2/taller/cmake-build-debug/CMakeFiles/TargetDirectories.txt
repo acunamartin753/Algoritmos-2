@@ -1,0 +1,6 @@
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/correrTests.dir
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/gtest_main.dir
+/Users/martinacuna/Documents/algo2_entregas/ejercitacion listas/alumnos/cmake-build-debug/CMakeFiles/gtest.dir
