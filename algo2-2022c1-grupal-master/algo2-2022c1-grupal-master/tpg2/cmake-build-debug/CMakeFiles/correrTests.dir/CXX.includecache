@@ -1,0 +1,226 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Servidor.cpp
+Servidor.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Servidor.h
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Servidor.h
+string_map.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/string_map.h
+Tipos.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Tipos.h
+string
+-
+utility
+-
+set
+-
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Tipos.h
+cstdlib
+-
+cassert
+-
+iostream
+-
+set
+-
+tuple
+-
+string
+-
+map
+-
+list
+-
+vector
+-
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/aed2_Servidor.cpp
+aed2_Servidor.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/aed2_Servidor.h
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/aed2_Servidor.h
+Tipos.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Tipos.h
+Servidor.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/Servidor.h
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/string_map.h
+string
+-
+utility
+-
+set
+-
+vector
+-
+string_map.hpp
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/string_map.hpp
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/string_map.hpp
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/gtest-1.8.1/gtest.h
+limits
+-
+ostream
+-
+vector
+-
+ctype.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+AvailabilityMacros.h
+-
+TargetConditionals.h
+-
+string
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+utility
+-
+vector
+-
+winapifamily.h
+-
+direct.h
+-
+io.h
+-
+unistd.h
+-
+strings.h
+-
+android/api-level.h
+-
+regex.h
+-
+typeinfo
+-
+pthread.h
+-
+time.h
+-
+tuple
+-
+utility
+-
+tuple
+-
+tr1/tuple
+-
+tr1/tuple
+-
+tuple
+-
+tr1/tuple
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+stdexcept
+-
+ctype.h
+-
+float.h
+-
+string.h
+-
+iomanip
+-
+limits
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+limits
+-
+mem.h
+-
+string.h
+-
+string
+-
+cxxabi.h
+-
+acxx_demangle.h
+-
+stdio.h
+-
+utility
+-
+ctype.h
+-
+iterator
+-
+set
+-
+utility
+-
+vector
+-
+stdlib.h
+-
+assert.h
+-
+ostream
+-
+sstream
+-
+string
+-
+utility
+-
+vector
+-
+tuple
+-
+absl/strings/string_view.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/gtest-1.8.1/absl/strings/string_view.h
+absl/types/optional.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/gtest-1.8.1/absl/types/optional.h
+absl/types/variant.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/gtest-1.8.1/absl/types/variant.h
+iosfwd
+-
+vector
+-
+
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/servidor-tests.cpp
+gtest-1.8.1/gtest.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/tests/gtest-1.8.1/gtest.h
+../src/aed2_Servidor.h
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/src/aed2_Servidor.h
+

@@ -1,0 +1,6 @@
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/gtest.dir
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/correrTests.dir
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/gtest_main.dir
+/mnt/c/Users/Mariano/Downloads/Facundo/ALGO2/TPS GRUPALES ALGO2/TP2/TESTING/tp2_2022_c1/cmake-build-debug/CMakeFiles/correrValgrind.dir
