@@ -1,0 +1,6 @@
+In file included from ./Conjunto.h:104:0,
+                 from ../../../../../../taller3/conjunto-tests.cpp:2:
+./Conjunto.hpp: In member function ‘const T& Conjunto<T>::buscarDerecha(Conjunto<T>::Nodo*) const [with T = int]’:
+./Conjunto.hpp:160:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
